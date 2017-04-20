@@ -19,7 +19,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class trytry{
+public class WeatherData{
 	  public static void main(String[] args) throws JauntException, Exception{
 		  ArrayList<String> zipcodes = new ArrayList<String> (Arrays.asList("27701", "94040", "10025", "94108", "60605", "90028", "75201", "30303", "33131", "02133",
 		            "19106", "20500", "48226", "77002", "97205", "98101", "80202", "89101", "92101", "14203",
